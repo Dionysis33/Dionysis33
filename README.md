@@ -1,12 +1,13 @@
 # Dionysis Alexopoulos
 
-MSc Software Engineering student building privacy-aware data systems, machine-learning forecasting pipelines, graph/database applications, and Java/Spring Boot backends.
+Undergraduate Software Engineering student building privacy-aware data systems, machine-learning forecasting pipelines, graph/database applications, and Java/Spring Boot backends.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://dev.java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ## Focus Areas
 
@@ -26,10 +27,10 @@ MSc Software Engineering student building privacy-aware data systems, machine-le
 
 ## Currently Building
 
-- **WindPower Digital Twin** — thesis-safe repository for spatio-temporal wind-power forecasting, benchmark-safe diagnostics, and graph-aware evaluation.
+- **WindPower Digital Twin** — undergraduate thesis project focused on spatio-temporal wind-power forecasting, benchmark-safe diagnostics, and graph-aware evaluation.
 - **Advanced Database Assessment** — NoSQL-first cloud inventory database using Neo4j as the primary database and MariaDB as a supporting layer.
 
-Some academic and thesis-related repositories remain private until assessment or submission is complete. Public, sanitized versions will be released with documentation, diagrams, reproducible scripts, and demo data.
+Some academic and coursework-related repositories remain private until assessment or submission is complete. Public, sanitized versions will be released with documentation, diagrams, reproducible scripts, and demo data.
 
 ## Tech Stack
 
@@ -41,10 +42,10 @@ Some academic and thesis-related repositories remain private until assessment or
 
 ## Education
 
-**MSc Software Engineering**  
-University of Greater Manchester  
-Delivered at New York College, Athens
+**Undergraduate Software Engineering / Computing Studies**  
+New York College, Athens  
+Academic programme associated with University of Greater Manchester
 
 ## Current Direction
 
-I am focused on building production-quality academic and portfolio projects that combine software engineering, data systems, machine learning, privacy, and backend architecture.
+I am currently focused on completing and delivering my undergraduate thesis while building production-quality academic and portfolio projects that combine software engineering, data systems, machine learning, privacy, and backend architecture.
