@@ -33,7 +33,7 @@ Expected graduation: 2026.
 - **WindPower Digital Twin** — ongoing undergraduate thesis repository focused on spatio-temporal wind-power forecasting, benchmark-safe diagnostics, and graph-aware evaluation.
 - **Advanced Database Assessment 2** — public academic database project demonstrating a NoSQL-first cloud inventory system with Neo4j as the primary graph database and MariaDB as a supporting relational layer.
 
-My thesis work is currently in active development. Some academic, coursework, and thesis-related repositories may remain private or partially documented until assessment, submission, or cleanup is complete. Public versions are released with documentation, diagrams, reproducible scripts, and sanitized demo data where appropriate.
+My thesis work is currently in active development. Some academic, coursework, and thesis-related repositories may remain private or partially documented until assessment, submission, or cleanup is complete. Public-safe versions may be released with documentation, diagrams, reproducible scripts, and sanitized demo data where appropriate.
 
 ## Tech Stack
 
