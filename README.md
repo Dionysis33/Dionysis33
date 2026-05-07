@@ -45,10 +45,10 @@ My thesis work is currently in active development. Some academic, coursework, an
 
 ## Education
 
-**BSc (Hons) Computing — Data Analytics pathway**  
-Third-year undergraduate student  
-New York College, Athens  
-Degree awarded by the **University of Greater Manchester**
+Third-year Bachelor in Computing student — Data Analytics pathway  
+New York College Athens  
+Awarding institution: University of Greater Manchester, U.K.  
+Expected graduation: 2026
 
 ## Current Direction
 
