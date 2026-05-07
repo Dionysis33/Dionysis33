@@ -1,6 +1,8 @@
 # Dionysis Alexopoulos
 
-Third-year BSc (Hons) Computing student on the **Data Analytics pathway**, focused on data analytics, machine-learning forecasting, database systems, and Java/Spring Boot backend development.
+Third-year Bachelor in Computing student on the Data Analytics pathway at New York College Athens, focused on Python, data analytics, machine-learning forecasting, database systems, and backend/software development.
+
+Expected graduation: 2026.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://dev.java/)
