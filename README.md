@@ -17,6 +17,7 @@ I build reproducible data and software systems that combine rigorous analysis, m
 [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dionysis_Alexopoulos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionysis-alexopoulos-1bb898356/)
 
 ## Technical Focus
 
